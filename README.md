@@ -1,4 +1,4 @@
-This repository has a solution a Scrabble excercise (source of the exercise: https://www.doc.ic.ac.uk/~wjk/C++Intro/piglatin/)
+This repository has a solution a 'Piglatin' excercise (source of the exercise: https://www.doc.ic.ac.uk/~wjk/C++Intro/piglatin/)
 
 It is part of the HTML publication "An Introduction to the Imperative Part of C++" 
 
